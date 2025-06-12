@@ -11,7 +11,7 @@
 
 🌱 My work proposes a new cosmological constant rooted in **GM-Time = \(10^{-51}\) s**, far beyond current ΛCDM or Planckian limits.
 
-🌐 Official webjamil@d10z.org
+🌐 Official D10z.org
 🧠 ORCID: [0009-0000-8858-4992](https://orcid.org/0009-0000-8858-4992)  
 
 > “There are no limits, only scales yet undefined. Post Theory begins where standard models end.”
